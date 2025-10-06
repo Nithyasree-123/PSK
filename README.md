@@ -4,7 +4,7 @@
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 
 ## TOOLS REQUIRED:
-IDLE Python (3.12 64-bit)
+Google colab
 
 ## PROGRAM:
 ### PSK:
